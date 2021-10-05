@@ -1,0 +1,20 @@
+{
+  "name": "101259410_comp3123_test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node question1/question1.js",
+    "question1": "nodemon question1/question1.js",
+    "question2": "nodemon question2/question2.js",
+    "question3": "nodemon question3/question3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Resul Yuksektepe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "description": ""
+}
